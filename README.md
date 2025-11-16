@@ -25,16 +25,23 @@ I specialize in MERN and React Native, creating clean user interfaces, scalable 
 ## 📌 Featured Projects  
 
 ### 🟦 The Gaffer – Football Tactics Builder  
-<a href="https://github.com/Joyalcj4/The-Gaffer--Football-tactics-builder---tester-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joyalcj4&repo=The-Gaffer--Football-tactics-builder---tester-website&theme=default" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joyalcj4&repo=The-Gaffer--Football-tactics-builder---tester-website&theme=default" />
+
+A MERN-based football tactics builder with an interactive pitch UI and tactical simulation features.
 
 ---
 
 ### 📱 CollabFlow – React Native Project Planner  
-<a href="#">
-  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=joyalcj4&repo=CollabFlow&theme=default](https://github.com/Joyalcj4/Sync--Project-management-app)" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joyalcj4&repo=CollabFlow&theme=default" />
+
+A collaborative project planner app with task assignments, scheduling, roles, and smooth UI/UX built in React Native.
+
+---
+
+### 🧠 Speech Therapy Assistance Web App  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joyalcj4&repo=Speech-Therapy-App&theme=default" />
+
+An AI-assisted speech therapy web application designed for practice sessions, speech evaluation, and personalized feedback.
 
 ---
 
