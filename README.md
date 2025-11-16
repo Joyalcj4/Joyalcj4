@@ -33,7 +33,7 @@ I specialize in MERN and React Native, creating clean user interfaces, scalable 
 
 ### 📱 CollabFlow – React Native Project Planner  
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joyalcj4&repo=CollabFlow&theme=default" />
+  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=joyalcj4&repo=CollabFlow&theme=default](https://github.com/Joyalcj4/Sync--Project-management-app)" />
 </a>
 
 ---
