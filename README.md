@@ -39,7 +39,7 @@ A collaborative project planner app with task assignments, scheduling, roles, an
 ---
 
 ### 🧠 Speech Therapy Assistance Web App  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joyalcj4&repo=Speech-Therapy-App&theme=default" />
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=joyalcj4&repo=Speech-Therapy-App&theme=default](https://github.com/Joyalcj4/Speech-therapy-project)" />
 
 An AI-assisted speech therapy web application designed for practice sessions, speech evaluation, and personalized feedback.
 
